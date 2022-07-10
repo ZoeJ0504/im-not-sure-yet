@@ -12,6 +12,7 @@ body {
 .topHeader {
     text-align: center;
     font-size: 50px;
+    font-family: 'Edu QLD Beginner', cursive;
 
 
 }
@@ -21,17 +22,23 @@ body {
     overflow: hidden;
 }
 
-.topnav a {
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    display: flex;
-    flex-direction: row;
-}
-
 .dog {
     width: 300px;
     padding: 20px
+}
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topnav a {
+    color: #f2f2f2;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-weight: 500;
 }
