@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+
+}
+
+.topnav a {
+    color: #f2f2f2;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-weight: 500;
+}
