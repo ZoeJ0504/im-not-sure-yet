@@ -6,3 +6,4 @@ const h2 = document.createElement("h2")
 h2.textContent = "Welcome to Me!"
 h2.className = "topHeader"
 document.querySelector("body").appendChild(h2)
+div.id = "navigation"

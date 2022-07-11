@@ -29,6 +29,10 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+
 }
 
 .topnav a {
