@@ -9,6 +9,12 @@ body {
     text-align: center
 }
 
+h3 {
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 30px;
+
+}
+
 .topHeader {
     text-align: center;
     font-size: 50px;
@@ -60,4 +66,16 @@ body {
     margin-left: auto;
     margin-right: auto;
 
+}
+
+#aboutMe {
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 20px;
+}
+
+#workHistory {
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 20px;
 }
