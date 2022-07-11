@@ -26,3 +26,10 @@ body {
     font-family: 'Edu QLD Beginner', cursive;
     font-weight: 500;
 }
+
+.notquitethere {
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 200px;
+    font-weight: 600;
+    text-align: center;
+}
