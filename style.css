@@ -79,3 +79,31 @@ h3 {
     font-family: 'Edu QLD Beginner', cursive;
     font-size: 20px;
 }
+
+#myfamily {
+    width: 400px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.family {
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 20px;
+}
+
+.whatwas {
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 20px;
+}
+
+.joe {
+    width: 400px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
