@@ -70,3 +70,11 @@ h1 {
 .gpd {
     color: black;
 }
+
+#bunny {
+    width: 400px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
